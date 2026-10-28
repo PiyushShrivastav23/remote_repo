@@ -1,1 +1,1 @@
-# DepartmentWebsite
+# CSE Department Website
